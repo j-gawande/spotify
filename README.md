@@ -28,9 +28,8 @@ Welcome to the Spotify Clone Website repository! This project is a web applicati
 
 ## Demo
 
-[Link to Live Demo](<link>https://spotify-jyt5.onrender.com/<link>)
+Link-(<link>https://spotify-jyt5.onrender.com/<link>)
 
-Include screenshots, GIFs, or videos to showcase the user interface and features of your application.
 
 ## Technologies Used
 
