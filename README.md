@@ -6,7 +6,7 @@ This Spotify clone website is made by using HTML, CSS &amp; JS
 
 # Spotify Clone Website
 
-![Project Image](url_to_project_image.png)
+![Project Image](thumbnail.png)
 
 > A web application that replicates the core features of the Spotify music streaming service.
 
